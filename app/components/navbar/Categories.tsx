@@ -5,7 +5,7 @@ import {BsSnow} from 'react-icons/bs'
 import {TbBeach, TbMountain, TbPool} from 'react-icons/tb';
 import {GiBarn, GiBoatFishing, GiCactus, GiCastle, GiCaveEntrance, GiForestCamp, GiIsland, GiWindmill} from 'react-icons/gi';
 import {MdOutlineVilla} from 'react-icons/md';
-import {IoDiamond} from 'react-icons/Io5'
+import {IoDiamond} from 'react-icons/io5'
 import {FaSkiing} from 'react-icons/fa'
 import { isTemplateSpan } from "typescript";
 import CategoryBox from '../CategoryBox'
