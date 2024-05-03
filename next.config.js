@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "/airbnbclone",
-    output: "export",  // <=== enables static exports
-    reactStrictMode: true,
     experimental: {
         appDir: true,
     },
