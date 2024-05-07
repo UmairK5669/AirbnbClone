@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/airbnbclone",
     reactStrictMode: true,
     images: {
         domains: [
